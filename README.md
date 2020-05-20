@@ -4,7 +4,7 @@ Pong  is a reimagination of the iconic game Pong, from the video game Atari, rel
 
 # Stack 
 
-Project built with Javascript (NodeJS on the backend, ReactJS framework on the frontend and React-Native to mobile version.
+Developed with the programming language Lua.
 
 # Motivation
 
