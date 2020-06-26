@@ -12,7 +12,7 @@ Gain experience with the language and certificate from the CS50 course, from Hav
 
 # How to Setup
 
-git clone https://github.com/bruno-albino/Pong-Game.git
+git clone https://github.com/bruno-albino/pong-game.git
 
 Install the LOVE program on your computer with this link: https://love2d.org/
 
